@@ -20,3 +20,6 @@
 
     `readelf -s ltrace  | grep -oP "GLIBC_[\d\.]*" | sort | uniq`
     把`-s`后面的文件换成你的程序
+
+win10子系统：
+https://docs.microsoft.com/zh-cn/windows/wsl/install-win10
